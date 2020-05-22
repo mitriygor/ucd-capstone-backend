@@ -1,5 +1,5 @@
 service:
-  name: uc4-sl-todo-${self:provider.environment.APP_VERSION}
+  name: ucd-capstone-be-v1-${self:provider.environment.APP_VERSION}
 
 plugins:
   - serverless-webpack
